@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi Everyone, Welcome to My GitHub Profile!
+
+Special thanks to Ken Jee for showing me this feature (https://github.com/PlayingNumbers/PlayingNumbers/blob/master/README.md)
+
+## Connect with me on these platforms:
+
+<a href="https://twitter.com/anuttara_sharma"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;             <a href="https://www.linkedin.com/in/anuttara-sharma"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
+ 
+
+
+
 
 <!--
 **AnuttaraSharma/AnuttaraSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
